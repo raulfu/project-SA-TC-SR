@@ -1,4 +1,4 @@
-# project-SA-TS-SR
+# Project: TextSummarization x SentimentAnalysis x SpeechRecognition
 
 This is an NLP project to create a little interface able to make a summary and detect the emotions of an input that can be either a written text or a speech. Main_project_using_ASR notebook has this interface.
 
