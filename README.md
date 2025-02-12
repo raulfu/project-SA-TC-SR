@@ -8,6 +8,6 @@ This is an NLP project to create a little interface able to make a summary and d
 
 Note that all the data used for training is not in the repo, notebook Main_project_using_ASR can be executed with the data of the repo, but notebook "Raul_Sequence classification - sentiment analysis", which contains the training, should not be run.
 
-Note also a token must be created in HugginFace to be able to run the code and load the models.
+Note also a token must be created in HugginFace to be able to run the code and load the models, as well as a file "token.env" with the token.
 
 Report file explains the training and finetuning decisions.
