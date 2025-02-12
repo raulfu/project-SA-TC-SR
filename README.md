@@ -2,7 +2,7 @@
 
 This is an NLP project to create a little interface able to make a summary and detect the emotions of an input that can be either a written text or a speech. Main_project_using_ASR notebook has this interface.
 
-- (TS) Models from[HugginFace](https://huggingface.co/) are used for the text summarization task and text generation.
+- (TS) Models from[HugginFace](https://huggingface.co/) are used for the text summarization task and text generation ([Mistral](https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.2)).
 - (SA) To train the Sentiment Analysis model, the bert_large_uncased_goemotions dataset is used.
 - (SR) For speech recognition, the Gradio model is used.
 
